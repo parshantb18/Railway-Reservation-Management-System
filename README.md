@@ -16,7 +16,7 @@ large-scale data-driven applications, including railway and banking systems.
 
 # Database Tables
 
-## 1. TRAIN
+## 1. TRAIN🚅
 
 | Attribute | Type | Description |
 |-----------|------|-------------|
@@ -31,7 +31,7 @@ large-scale data-driven applications, including railway and banking systems.
 
 ---
 
-## 2. STATION
+## 2. STATION🚉
 
 | Attribute | Type | Description |
 |-----------|------|-------------|
@@ -57,7 +57,7 @@ large-scale data-driven applications, including railway and banking systems.
 
 ---
 
-## 4. PASSENGER
+## 4. PASSENGER🙍🏻‍♂️
 
 | Attribute | Type | Description |
 |-----------|------|-------------|
@@ -85,7 +85,7 @@ large-scale data-driven applications, including railway and banking systems.
 
 ---
 
-## 6. TICKET
+## 6. TICKET🎫
 
 | Attribute | Type | Description |
 |-----------|------|-------------|
@@ -98,7 +98,7 @@ large-scale data-driven applications, including railway and banking systems.
 
 ---
 
-## 7. PAYMENT
+## 7. PAYMENT💸
 
 | Attribute | Type | Description |
 |-----------|------|-------------|
