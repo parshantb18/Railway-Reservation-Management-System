@@ -7,6 +7,13 @@ Oracle is a highly reliable, ACID-compliant enterprise RDBMS that supports compl
 concurrency control, and powerful procedural programming through PL/SQL. It is industry-standard for
 large-scale data-driven applications, including railway and banking systems.
 
+---
+
+## Live Dashboard comprising Database: https://e-rail-booking.lovable.app/
+<img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/034faaf4-9701-4edb-a8ac-ba4fc1d003ee" />
+
+---
+
 ## User Roles
 
 | Role      | Responsibilities |
