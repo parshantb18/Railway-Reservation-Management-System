@@ -10,7 +10,8 @@ large-scale data-driven applications, including railway and banking systems.
 ---
 
 ## Live Dashboard comprising Database: https://e-rail-booking.lovable.app/
-<img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/034faaf4-9701-4edb-a8ac-ba4fc1d003ee" />
+<img width="1892" height="877" alt="image" src="https://github.com/user-attachments/assets/1c09e5b5-9c35-476b-adda-69cf83003634" />
+
 
 ---
 
