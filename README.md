@@ -8,6 +8,8 @@ concurrency control, and powerful procedural programming through PL/SQL. It is i
 large-scale data-driven applications, including railway and banking systems.
 
 ## User Roles
-|Role|Responsibilities|
-|Admin|Manages trains, stations, routes, and schedules. Can insert, update, and delete records across all tables|
-|Passenger|Searches for trains, makes bookings, views ticket details, initiates cancellations, and makes payments|
+
+| Role      | Responsibilities |
+|------------|------------------|
+| **Admin** | Manages trains, stations, routes, and schedules. Can insert, update, and delete records across all tables. |
+| **Passenger** | Searches for trains, makes bookings, views ticket details, initiates cancellations, and makes payments. |
